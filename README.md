@@ -1,11 +1,21 @@
-# Project System Car
+# Speed™
+> #### You snooze you lose
+
+
+---
+
 
 ## Group Members
-* Cem Durmus (529836)
-* Demetra Sitnic (541777)
-* Daniela Stratieva (542301)
-* Rashid Sekimwanyi (529887)
-* Leo Parody (530314)
+
+
+| Column 1          | Column 2 |
+| ----------------- | -------- |
+| Cem Durmus        | 529836   |
+| Demetra Sitnic    | 541777   |
+| Daniela Stratieva | 542301   |
+| Rashid Sekimwanyi | 529887   |
+| Leo Parody        | 530314   |
+
 
 ## Deadlines
 
@@ -30,5 +40,12 @@
 * Obstacle avoidance
 * Be able to go up a ramp
 * Budget of 50EUR
+
+## List of Components
+### Provided
+* Ishima - RC 390 motor (ISH-010-021)
+* Ishima - 5-wire Steering Servo (ISH-010-056) - or 3 wire servo
+* Ishima - Li-ion Battery 7.4V, 1500mAh (ISH-010-020)
+* VNH2SP30 Motor shield 30A - Bipolar Stepper motor and DC-motor motor controller
 
 ## Functionality
