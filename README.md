@@ -1,5 +1,5 @@
 # Speed™
-> #### You snooze you lose
+> #### You Snooze, You Lose
 
 
 ---
